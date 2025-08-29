@@ -69,15 +69,15 @@ Here are some sample outputs for better understanding:
 
 ### Example 1
 
-![Sample Output 1](./Screenshot of api using postman/1.png)
+![Sample Output 1](./ScreenshotPostman/1.png)
 
 ### Example 2
 
-![Sample Output 2](./screenshots/output2.png)
+![Sample Output 2](./ScreenshotPostman/2.png)
 
 ### Example 3
 
-![Sample Output 3](./screenshots/output3.png)
+![Sample Output 3](./ScreenshotPostman/3.png)
 
 ## ⚙️ Run Locally
 
