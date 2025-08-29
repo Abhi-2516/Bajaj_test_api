@@ -68,8 +68,8 @@ https://bajajtestapi-production.up.railway.app/bfhl
 Clone the project:
 
 ```bash
-git clone https://github.com/your-username/fullstack-vit-api.git
-cd fullstack-vit-api
+git clone https://github.com/Abhi-2516/Bajaj_test_api
+cd Bajaj_test_api
 ```
 
 Install dependencies:
