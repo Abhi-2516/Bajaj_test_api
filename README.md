@@ -63,6 +63,22 @@ https://bajajtestapi-production.up.railway.app/bfhl
 }
 ```
 
+## 🖼 Sample Outputs (Screenshots)
+
+Here are some sample outputs for better understanding:
+
+### Example 1
+
+![Sample Output 1](./Screenshot of api using postman/1.png)
+
+### Example 2
+
+![Sample Output 2](./screenshots/output2.png)
+
+### Example 3
+
+![Sample Output 3](./screenshots/output3.png)
+
 ## ⚙️ Run Locally
 
 Clone the project:
